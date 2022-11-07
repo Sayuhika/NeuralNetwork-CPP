@@ -1,0 +1,7 @@
+activation type:
+0
+activation scale:
+1
+configuration:
+3	2	2	1	
+weights:
